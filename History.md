@@ -1,6 +1,18 @@
 
 # History
 
+## 2018-03-05, Version 1.13.1 @dead-horse
+
+### Notable changes
+
+* **fix**
+  * `ctx.runInBackground` will try to use custom function name first
+
+### Commits
+
+  * [[`be618f8`](http://github.com/eggjs/egg/commit/be618f8de31bfa8f1200aa23898f6248dd8d6848)] - fix: try to use custom function name first (#2156) (fengmk2 <<fengmk2@gmail.com>>)
+
+
 ## 2018-01-26, Version 1.13.0, @dead-horse
 
 ### Notable changes
